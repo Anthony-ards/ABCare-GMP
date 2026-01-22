@@ -1,0 +1,15 @@
+# Serena MCP
+.serena/
+
+# Claude Code
+.claude/
+
+# 임시 파일
+tmp/
+*.tmp
+
+# OS 파일
+.DS_Store
+
+# Playwright MCP
+.playwright-mcp/
